@@ -1,3 +1,4 @@
+# Виселица
 import random
  
 words = [
@@ -47,3 +48,4 @@ if(len_word == 0):
     print(f'Вы угадали с {health} попытки, слово - "{word}"')
 else:
     print(f'ВЫ ПРОИГРАЛИ! Это слово: "{word}" \nПОПРОБУЙТЕ СНОВА!')
+
